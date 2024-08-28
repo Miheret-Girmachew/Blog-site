@@ -8,6 +8,12 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        montserrat: ['Montserrat', 'sans-serif'],
+        
+        imfell: ['"IM FELL French Canon"', 'serif'],
+
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
