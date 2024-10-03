@@ -49,15 +49,6 @@ npm run dev
 
 Open http://localhost:3000 in your browser.
 
-### Folder Structure
-
-pages/ - Contains the pages for routing, including sign-up, login, and blog pages.
-components/ - Reusable React components such as BlogCard and TextInput.
-public/ - Static assets such as images.
-styles/ - Tailwind CSS configuration and custom styles.
-api/ - Server-side API routes for handling requests.
-API Endpoints
-Sign-Up: POST /api/auth/register
 
 ![signup](https://github.com/user-attachments/assets/37ff7923-09fd-4337-a633-ae1b1147a84f)
 
